@@ -1,6 +1,10 @@
+@import 'https://anti-betterdocs.github.io/BlockBetterDocs/code.css';.da-appMount {
+    background: var(--background-image)
+}
+
 .theme-dark .member-2FrNV0:hover .content-3JzEqq,.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb,.theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
-    background-color: rgb(255,105,180)
-    border-color: rgb(255,105,180)
+    background-color: rgba(0,0,0,.5);
+    border-color: transparent
 }
 
 .scroller-wrap .scroller::-webkit-scrollbar-thumb,.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
@@ -11,12 +15,12 @@
 }
 
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece,.theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
-    background-color: rgb(255,105,180)
-    border-color: black
+    background-color: transparent;
+    border-color: transparent
 }
 
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
-    background-color: rgb(255,105,180);
+    background-color: #f3f3f3
 }
 
 .scroller-wrap .scroller::-webkit-scrollbar-thumb,.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
@@ -48,7 +52,7 @@ img.emoji:not(.jumboable) {
 }
 
 .theme-dark .friends-table .messages .divider:not(.red) div,.theme-dark .messages-wrapper .messages .divider:not(.red) div {
-    background: pink
+    background: rgba(0,0,0,.5)
 }
 
 .links,.help-container {
@@ -73,7 +77,7 @@ img.emoji:not(.jumboable) {
 }
 
 .theme-dark ::-webkit-scrollbar-track-piece,.chat-3bRxxu ::-webkit-scrollbar-track-piece,.channels-Ie2l6A ::-webkit-scrollbar-track,.chat-3bRxxu ::-webkit-scrollbar-track {
-    background: black;
+    background: 0 0!important;
     border-color: transparent!important
 }
 
