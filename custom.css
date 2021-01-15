@@ -15,8 +15,8 @@
 }
 
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece,.theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
-    background-color: transparent;
-    border-color: transparent
+    background-color: black;
+    border-color: black
 }
 
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
