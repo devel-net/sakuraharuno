@@ -48,7 +48,7 @@ img.emoji:not(.jumboable) {
 }
 
 .theme-dark .friends-table .messages .divider:not(.red) div,.theme-dark .messages-wrapper .messages .divider:not(.red) div {
-    background: rgba(0,0,0,.5)
+    background: pink
 }
 
 .links,.help-container {
