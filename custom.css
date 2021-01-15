@@ -1,10 +1,6 @@
-@import 'https://anti-betterdocs.github.io/BlockBetterDocs/code.css';.da-appMount {
-    background: var(--background-image)
-}
-
 .theme-dark .member-2FrNV0:hover .content-3JzEqq,.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb,.theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
-    background-color: rgb(255,105,180);
-    border-color: rgb(255,105,180);
+    background-color: rgb(255,105,180)
+    border-color: rgb(255,105,180)
 }
 
 .scroller-wrap .scroller::-webkit-scrollbar-thumb,.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
@@ -15,7 +11,7 @@
 }
 
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece,.theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
-    background-color: rgb(255,105,180);
+    background-color: rgb(255,105,180)
     border-color: black
 }
 
