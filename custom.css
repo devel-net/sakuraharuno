@@ -3,8 +3,8 @@
 }
 
 .theme-dark .member-2FrNV0:hover .content-3JzEqq,.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb,.theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
-    background-color: rgba(0,0,0,.5);
-    border-color: transparent
+    background-color: pink;
+    border-color: pink;
 }
 
 .scroller-wrap .scroller::-webkit-scrollbar-thumb,.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
